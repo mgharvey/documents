@@ -1,7 +1,7 @@
-Dissertation Outline - Michael G. Harvey
+Dissertation Outline
 ====================
 
-Dissertation goal: Develop and evaluate new methods of obtaining phylogeographic datasets and apply them to comparative phylogeography of Amazonian birds.
+*Dissertation goal:* Develop and evaluate new methods of obtaining phylogeographic datasets and apply them to comparative phylogeography of Amazonian birds.
 
 Projects
 ---------------------

@@ -6,7 +6,9 @@ Dissertation Outline
 Projects
 ---------------------
 
-### Comparing sequence capture and RAD-Seq
+### Comparing sequence capture and RAD-Seq for phylogeography
+
+We have been exploring the use of both sequence capture of ultraconserved elements (UCEs) and RAD-Seq in phylogeography. We, perhaps uniquely, have datasets from the same samples for both types of markers.
 
 ### *Xenops minutus* phylogeography using RAD-Seq
 

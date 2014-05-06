@@ -6,6 +6,10 @@ Dissertation Outline
 Projects
 ---------------------
 
-### Experimenting with sequence capture and RAD-Seq
+### Comparing sequence capture and RAD-Seq
 
+### *Xenops minutus* phylogeography using RAD-Seq
 
+### Comparative phylogeography of varzéa and terra firme birds in Amazonia
+
+### Relationship between phylogeographic structure and higher-level speciation rate

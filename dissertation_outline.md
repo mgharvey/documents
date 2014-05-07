@@ -20,7 +20,7 @@ We were interested in generating a larger, range-wide RAD-Seq dataset from a sin
 
 ### Relationship between phylogeographic structure and higher-level speciation rate
 
-A long-standing question I've hoped to address is to what degree phylogeographic structure is important in longer-term diversification. In$
+A long-standing question I've hoped to address is to what degree phylogeographic structure is important in longer-term diversification. In this project, we compile mitochondrial phylogeographic datasets from over 200 New World birds and compare metrics of phylogeographic diversity with estimates of speciation rate from a phylogeny of all birds.
 
 **Status:** Analyzing data
 

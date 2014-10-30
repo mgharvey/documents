@@ -4,7 +4,7 @@ From the outset, it was very important to us to carefully document our big day e
 
 More important than documenting the big day, however, was documenting the poorly known avifauna of a very interesting corner of South America. Abra Patricia and the Mayo Valley were some of the last major landscape features in northern South America to be explored by ornithologists and birders. The first exploration, primarily by expeditions from the LSU Museum of Natural Science under the leadership of John O’Neill, occurred in the 1970s as a highway was built over the mountains around Abra Patricia. To this day, the area remains poorly known, as evidenced by the presence of species that still remain to be described and named. This lack of knowledge is particularly glaring given the high number of species and the complexity of bird distributions in the area. In eBird, for example, <a href="http://ebird.org/ebird/GuideMe?step=saveChoices&getLocations=ibas&parentState=PE-SAM&bMonth=01&bYear=1900&eMonth=12&eYear=2014&reportType=location&ibas=PE_24462&ibas=PE_14677&continue.x=55&continue.y=9&continue=Continue">735 bird species</a> are known from the two Important Bird Areas comprising Abra Patricia and the Mayo Valley. This is 100 more species than regularly occur in North America within the ABA area! A major goal of our big day effort was to help fill in some of the gaps in our knowledge of birds in the region, and to make that information publicly available. 
 
-So we set out during scouting armed with cameras and recording units, and took careful notes bird bird species and numbers observed at each site. You can see a list of all of the scouting eBird checklists below, including embedded media. Our favorites include an <a href="http://ebird.org/ebird/view/checklist?subID=S20305822">hour spent with the spectacular hummingbirds</a> coming to the feeders at Waqanki Lodge, a hike up to <a href="http://ebird.org/ebird/view/checklist?subID=S20307854">the crest of a ridge</a> in a successful attempt to see Ash-throated Antwren, a quick visit to <a href="http://ebird.org/ebird/view/checklist?subID=S20308157">some new feeders</a> with Rufous-breasted Wood-Quail visiting, birding in <a href="http://ebird.org/ebird/view/checklist?subID=S20308584">some excellent roadside marshes</a>, productive <a href="http://ebird.org/ebird/view/checklist?subID=S20315248">night birding in fields</a> in the Mayo Valley, a <a href="http://ebird.org/ebird/view/checklist?subID=S20309865">check of the hummingbird feeders</a> at the owlet lodge at Abra Patricia, <a href="http://ebird.org/ebird/view/checklist?subID=S20309917">spending some time</a> with a bizarre little owl, 
+So we set out during scouting armed with cameras and recording units, and took careful notes bird bird species and numbers observed at each site. You can see a list of all of the scouting eBird checklists below, including embedded media. Our favorites include an <a href="http://ebird.org/ebird/view/checklist?subID=S20305822">hour spent with the spectacular hummingbirds</a> coming to the feeders at Waqanki Lodge. Much less relaxing was a hike up to <a href="http://ebird.org/ebird/view/checklist?subID=S20307854">the crest of a ridge</a> in a successful attempt to see Ash-throated Antwren. A quick visit to <a href="http://ebird.org/ebird/view/checklist?subID=S20308157">some new feeders</a> with Rufous-breasted Wood-Quail visiting was worthwhile. We ended up spending more time than planned birding in <a href="http://ebird.org/ebird/view/checklist?subID=S20308584">some excellent roadside marshes</a> northwest of Rioja. We found productive <a href="http://ebird.org/ebird/view/checklist?subID=S20315248">night birding in fields</a> north of Calzada. Our first taste of the mountains was during a <a href="http://ebird.org/ebird/view/checklist?subID=S20309865">check of the hummingbird feeders</a> at the owlet lodge at Abra Patricia, and that night we <a href="http://ebird.org/ebird/view/checklist?subID=S20309917">spent some time</a> with a bizarre little owl. The <a href="http://ebird.org/ebird/view/checklist?subID=S20317596">road near Abra Patricia itself</a> was very birdy, but that paled in comparison to <a href="http://ebird.org/ebird/view/checklist?subID=S20321820">birding a mega-flock</a> in the subtropics. Despite the rain, we enjoyed <a href="http://ebird.org/ebird/view/checklist?subID=S20321867">spending some time</a> with some foraging Tangara tanagers. Finally, we finished our scouting in the lower subtropics <a href="http://ebird.org/ebird/view/checklist?subID=S20322667">staking out Lanceolated Monklet and scanning from bridges</a>. 
 
 3 October
 
@@ -99,6 +99,45 @@ So we set out during scouting armed with cameras and recording units, and took c
 - <a href="http://ebird.org/ebird/view/checklist?subID=S20309917">Fundo Alto Nieva</a> - night birding and the owlet!
 
 10 October
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20317595">ACP Abra Patricia-Alto Nieva--Senda Royal Sunangel</a> - checking the roadside for Royal Sunangels
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20317595">ACP Abra Patricia-Alto Nieva</a> - birding the road near the pass
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20317596">ACP Abra Patricia-Alto Nieva</a> - birding the road near the pass
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20317597">Puente Sin Nombre</a> - a quick exploration of the start of a muddy trail
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20317597">Abra Patricia-Alto Nieva--Senda Garcia</a> - exploring another trail through stunted forest
+
+11 October
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20321657">Bosque de Protección Alto Mayo--Mirador</a> - exploring the middle elevations stretch of the road over Abra Patricia
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20321820">Mega-flock</a> - birding the large mixed-species flock often present at this spot in the upper subtropics
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20321867">Venceremos</a> - birding forest near the guard station for the Alto Mayo Protected Area
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20321947">Bosque de Protección Alto Mayo--Llantaria</a> - a well-known pulloff great for subtropical birds (including the stunning cock-of-the-rock)
+
+12 October
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20321947">Bosque de Protección Alto Mayo--Carretera 5N</a> - more subtropical birding this morning
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20322667">Aguas Verdes - upper part</a> - staking out Lanceolated Monklet and scanning from bridges
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20323199">Fundo Alto Nieva</a> - finally some nice weather in the cloud forest!
+
+13 October
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20311175">Fundo Alto Nieva</a> - one last morning near the cabins (Mike and Dan)
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20311197">ACP Abra Patricia-Alto Nieva--Senda Royal Sunangel</a> - a last check on the sunangel spot
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20311207">ACP Abra Patricia-Alto Nieva--Senda Royal Sunangel</a> - a last check of the parrot roost
+
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20311223">Puerto Pumas Hotel</a> - some birding on the grounds before going to sleep pre-big day!
+
 
 The resulting photos are available from <a href="https://www.flickr.com/photos/125774630@N05/">flickr</a> (and have been added to the <a href="http://neotropical.birds.cornell.edu/portal/home">Neotropical Birds</a> flickr group. The audio recordings are available from 
 

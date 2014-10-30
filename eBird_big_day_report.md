@@ -1,6 +1,6 @@
 
 
-I am imagining an intro something along hte lines of:
+I am imagining an intro something along the lines of:
 
 You may have heard that the Louisiana State University Museum of Natural Science recently fielded a team in Peru with the goal of raising support for research and also breaking the world big day record (the record for the most bird species seen in a single day). They surpassed the prior big day record of 331 with an astounding 354 bird species! eBird was a key part of this effort. Read more below.
 

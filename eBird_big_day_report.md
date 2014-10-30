@@ -12,53 +12,53 @@ So we set out during scouting armed with cameras and recording units, and took c
 
 - <a href="http://ebird.org/ebird/view/checklist?subID=S20300219">Laguna Pomacochas - North End</a> - to check the marshy outflow of the lake
 
-- <a href="http://ebird.org/ebird/view/checklist?subID=S20300224">Aratinga Cliffs</a> to check on the species composition of a parrot nesting site
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300224">Aratinga Cliffs</a> - to check on the species composition of a parrot nesting site
 
 4 October
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300316">Rio Mayo - Port for Tingana</a> to see what river-edge birds can be seen from the road
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300316">Rio Mayo - Port for Tingana</a> - to see what river-edge birds can be seen from the road
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300316">Laguna Burrococha</a> to see if some lowland forest birds are accessible on the south side of the Río Mayo
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300316">Laguna Burrococha</a> - to see if some lowland forest birds are accessible on the south side of the Río Mayo
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300323">Laguna Burrococha - property of Jose Marin</a> to check on more forest on the land of a friendly farmer
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300323">Laguna Burrococha - property of Jose Marin</a> - to check on more forest on the land of a friendly farmer
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300325">Road to Burrococha</a>, where we checked another small finger of forest near the road
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300325">Road to Burrococha</a> - where we checked another small finger of forest near the road
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300328">La Florida</a>, a village with a trail leading back toward a patch of swamp forest
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300328">La Florida</a> - a village with a trail leading back toward a patch of swamp forest
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300331">Near Calzada</a> for a quick roadside stop to check out a soaring Short-tailed Hawk
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300331">Near Calzada</a> - a quick roadside stop to check out a soaring Short-tailed Hawk
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20300336">Arrozales de Rioja</a>, extensive rice fields, in search of concentrations of water birds
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20300336">Arrozales de Rioja</a> - extensive rice fields, in search of concentrations of water birds
 
 5 October
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20305686">Carretera Baños Termales</a>, in a (mostly failed) attempt to get some foothill forest birds from the road
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20305686">Carretera Baños Termales</a> - in a (mostly failed) attempt to get some foothill forest birds from the road
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20305684">Quebrada on Carretera Baños Termales</a> was a short hike up a small stream in search of forest birds
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20305684">Quebrada on Carretera Baños Termales</a> - a short hike up a small stream in search of forest birds
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20305596">Waqanki Center/Quebrada Mishquiyaquillo--Lodge</a>, birding from the grounds of a well-known birding lodge
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20305596">Waqanki Center/Quebrada Mishquiyaquillo--Lodge</a> - birding from the grounds of a well-known birding lodge
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20305720">Waqanki Center/Quebrada Mishquiyaquillo--Senda</a>, birding up the trail near the lodge
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20305720">Waqanki Center/Quebrada Mishquiyaquillo--Senda</a> - birding up the trail near the lodge
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20305822">Waqanki Center/Quebrada Mishquiyaquillo--Hummingbird Garden</a> for fantastic hummingbird-watching
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20305822">Waqanki Center/Quebrada Mishquiyaquillo--Hummingbird Garden</a> - for fantastic hummingbird-watching
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20306123">San José vicinity</a> to scout some birds of dry, overgrown fields
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20306123">San José vicinity</a> - to scout some birds of dry, overgrown fields
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20306079">Carretera 5N</a> to check some roadside wetlands
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20306079">Carretera 5N</a> - to check some roadside wetlands
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20306120">Waqanki Center/Quebrada Mishquiyaquillo--Lodge</a> at dusk to listen for nightjars
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20306120">Waqanki Center/Quebrada Mishquiyaquillo--Lodge</a> - at dusk to listen for nightjars
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20306150">Moyobamba radio tower</a> to spotlight a hunting Stygian Owl
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20306150">Moyobamba radio tower</a> - to spotlight a hunting Stygian Owl
 
 6 October
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20306970">Quebrada Mishquiyaquillo</a> to explore the trail behind the lodge
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20306970">Quebrada Mishquiyaquillo</a> - to explore the trail behind the lodge
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20307852">Waqanki - above Quebrada Mishquiyaquillo</a>, a continuation of the above list covering the slopes leading up to a ridge
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20307852">Waqanki - above Quebrada Mishquiyaquillo</a> - a continuation of the above list covering the slopes leading up to a ridge
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20307854">Waqanki - ridgeline (1450 - 1600 m)</a>, hiking along the crest of a ridge in search of Ash-throated Antwren
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20307854">Waqanki - ridgeline (1450 - 1600 m)</a> - hiking along the crest of a ridge in search of Ash-throated Antwren
 
-<a href="http://ebird.org/ebird/view/checklist?subID=S20307855">Arrozales de Rioja</a>, in an attempt to relocate good shorebird flocks
+- <a href="http://ebird.org/ebird/view/checklist?subID=S20307855">Arrozales de Rioja</a> - in an attempt to relocate good shorebird flocks
 
 
 
